@@ -1,6 +1,6 @@
 # Writing workflow
 
-Run these eight steps for any drafting or restructuring task. Steps 1-3 are planning, 4-6 are drafting, 7-8 are checking.
+Run these steps for any drafting or restructuring task. Steps 1-3 are planning, step 3b is an alignment gate, 4-6 are drafting, 7-8 are checking.
 
 ## 1. Build a one-sentence argument
 
@@ -21,6 +21,22 @@ Pick the section structure from the relevant `section/*.md` fragment and, if nee
 Each paragraph must do exactly one job from: context, gap, approach, result, comparison, mechanism, implication, limitation.
 
 If a paragraph carries two jobs, split it before drafting.
+
+## 3b. Confirmation gate — align before drafting
+
+Drafting a full section on a wrong assumed premise wastes the whole draft and is the main reason output "does not match what I meant". Before writing full prose, show the user a short alignment block and **stop for confirmation**:
+
+- **One-sentence argument** (from step 1) — the single most important thing to get right. Echo it back in plain language.
+- **Plan**: detected paper type, section(s), journal / word limit, and the paragraph map from step 3 as a short bullet list.
+- **Key assumptions**: anything you inferred rather than were told — especially what the core contribution is, who the audience is, and which result to lead with. Mark each clearly as an assumption.
+- **At most 2–3 targeted questions**, only on genuinely ambiguous, high-leverage points (how to frame the core contribution, target audience / journal, which result leads). Do not ask about things the user already made clear, and do not pad the list to reach three.
+
+Then wait for the user to confirm or correct before drafting the full section.
+
+Two shortcuts:
+
+- **Skip the gate** when the core claim, evidence, and boundary are all clearly given and there is no real ambiguity in framing. In that case just state the one-sentence argument in a single line (per the router) and proceed.
+- **Style, not substance**: if the user says the voice or style "is not mine", do not keep guessing — ask for one short sample of their own writing to match.
 
 ## 4. Draft from evidence outward
 
