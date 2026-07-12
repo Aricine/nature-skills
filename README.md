@@ -260,7 +260,7 @@ OpenClaw、OpenCode、Hermes 的具体接入方式见 [OpenClaw / OpenCode / Her
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Yuan1z0825/nature-skills&type=Date&cache_bust=2026-06-07T16)](https://star-history.com/#Yuan1z0825/nature-skills&Date)
+[![Star History Chart](assets/star-history.svg)](https://star-history.com/#Yuan1z0825/nature-skills&Date)
 
 ## 技能索引
 
